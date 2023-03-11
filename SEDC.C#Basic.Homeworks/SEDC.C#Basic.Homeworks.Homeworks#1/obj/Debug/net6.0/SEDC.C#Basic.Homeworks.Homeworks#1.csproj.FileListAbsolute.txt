@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\bin\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.exe
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\bin\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.deps.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\bin\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.runtimeconfig.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\bin\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\bin\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\refint\SEDC.C#Basic.Homeworks.Homeworks#1.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\SEDC.C#Basic.Homeworks.Homeworks#1.genruntimeconfig.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.C#Basic.Homeworks\SEDC.C#Basic.Homeworks.Homeworks#1\obj\Debug\net6.0\ref\SEDC.C#Basic.Homeworks.Homeworks#1.dll
