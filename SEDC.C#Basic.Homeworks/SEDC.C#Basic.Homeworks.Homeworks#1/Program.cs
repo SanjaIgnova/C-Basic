@@ -6,45 +6,41 @@ Console.WriteLine(" Real Calculator!");
 Console.WriteLine("Please enter +, -, * or /");
 
 string input = Console.ReadLine();
+Console.WriteLine("Plase enter the first number");
+bool firstNubmer = int.TryParse(Console.ReadLine(), out int firstNum);
+Console.WriteLine("Plase enter the second number");
+bool secondNumber = int.TryParse(Console.ReadLine(), out int secondNum);
 
-if (input == "+")
+if (firstNubmer && secondNumber)
 {
-    Console.WriteLine("Plase enter the first number");
-    int firstNubmer = int.Parse(Console.ReadLine());
-    Console.WriteLine("Plase enter the second number");
-    int secondNumber = int.Parse(Console.ReadLine());   
-    int result = firstNubmer + secondNumber;
-    Console.WriteLine($"Your result is {result}");
-} else if (input == "-")
-{
-    Console.WriteLine("Plase enter the first number");
-    int firstNubmer = int.Parse(Console.ReadLine());
-    Console.WriteLine("Plase enter the second number");
-    int secondNumber = int.Parse(Console.ReadLine());
-    int result = firstNubmer - secondNumber;
-    Console.WriteLine($"Your result is {result}");
-}
-else if (input == "*")
-{
-    Console.WriteLine("Plase enter the first number");
-    int firstNubmer = int.Parse(Console.ReadLine());
-    Console.WriteLine("Plase enter the second number");
-    int secondNumber = int.Parse(Console.ReadLine());
-    int result = firstNubmer * secondNumber;
-    Console.WriteLine($"Your result is {result}");
-} else if(input == "/")
-{
-    Console.WriteLine("Plase enter the first number");
-    int firstNubmer = int.Parse(Console.ReadLine());
-    Console.WriteLine("Plase enter the second number");
-    int secondNumber = int.Parse(Console.ReadLine());
-    int result = firstNubmer / secondNumber;
-    Console.WriteLine($"Your result is {result}");
-}
-else
+    if (input == "+")
+    {
+
+        int result = firstNum + secondNum;
+        Console.WriteLine($"Your result is {result}");
+    }
+    else if (input == "-")
+    {
+
+        int result = firstNum - secondNum;
+        Console.WriteLine($"Your result is {result}");
+    }
+    else if (input == "*")
+    {
+
+        int result = firstNum * secondNum;
+        Console.WriteLine($"Your result is {result}");
+    }
+    else if (input == "/")
+    {
+        int result = firstNum / secondNum;
+        Console.WriteLine($"Your result is {result}");
+    }
+}else
 {
     Console.WriteLine("You enter a wrong operation. Plase enter again!");
 }
+
 #endregion
 
 #region Task 2
@@ -52,33 +48,43 @@ Console.WriteLine("Average Number!");
 
 
 Console.WriteLine("Plase enter first number:");
-int firstNumber1 = int.Parse(Console.ReadLine());
+bool firstNumber1 = int.TryParse(Console.ReadLine(),out int firstNumParse);
 Console.WriteLine("Plase enter second number:");
-int secondNumber1= int.Parse(Console.ReadLine());
+bool secondNumber1 = int.TryParse(Console.ReadLine(), out int secondNumParse);
 Console.WriteLine("Plase enter third number:");
-int thirdNumber1 = int.Parse(Console.ReadLine());
+bool thirdNumber1 = int.TryParse(Console.ReadLine(), out int thirdNumParse);
 Console.WriteLine("Plase enter four number:");
-int fourNumber1 = int.Parse(Console.ReadLine());
+bool fourNumber1 = int.TryParse(Console.ReadLine(), out int fourNumParse);
 
-int averageNumber1 = (firstNumber1 + secondNumber1 + thirdNumber1 + fourNumber1) / 4;
-Console.WriteLine($"The average number of enterd number is {averageNumber1}");
+if (firstNumber1 && secondNumber1 && thirdNumber1 && fourNumber1)
+{
+    int averageNumber1 = (firstNumParse + secondNumParse + thirdNumParse + fourNumParse) / 4;
+    Console.WriteLine($"The average number of enterd number is {averageNumber1}");
+} else
+{
+    Console.WriteLine("You must enter a number!");
+}
 #endregion
 
 #region Task 3
 Console.WriteLine("Swap Numbers!");
 
 Console.WriteLine("Plase enter a first number:");
-int number1 = int.Parse(Console.ReadLine());
+bool numb = int.TryParse(Console.ReadLine(), out int number1);
 Console.WriteLine("Plase enter a second number:");
-int number2 = int.Parse(Console.ReadLine());
+bool numb2 = int.TryParse(Console.ReadLine(), out int number2);
 
-Console.WriteLine($"Before swapping the first number is {number1} and the second number is {number2} ");
 
-number1 = number1 + number2;
-number2 = number1 - number2;
-number1 = number1 - number2;
-
-Console.WriteLine($"After swapping the first number is {number1} and the seconf number is {number2}");
-
+if (numb && numb2)
+{
+    Console.WriteLine($"Before swapping the first number is {number1} and the second number is {number2} ");
+    number1 = number1 + number2;
+    number2 = number1 - number2;
+    number1 = number1 - number2;
+    Console.WriteLine($"After swapping the first number is {number1} and the second number is {number2}");
+} else
+{
+    Console.WriteLine("Your input is not number!");
+}
 
 #endregion
