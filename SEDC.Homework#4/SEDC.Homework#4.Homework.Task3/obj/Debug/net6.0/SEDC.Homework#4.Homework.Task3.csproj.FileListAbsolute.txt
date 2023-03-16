@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\bin\Debug\net6.0\SEDC.Homework#4.Homework.Task3.exe
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\bin\Debug\net6.0\SEDC.Homework#4.Homework.Task3.deps.json
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\bin\Debug\net6.0\SEDC.Homework#4.Homework.Task3.runtimeconfig.json
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\bin\Debug\net6.0\SEDC.Homework#4.Homework.Task3.dll
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\bin\Debug\net6.0\SEDC.Homework#4.Homework.Task3.pdb
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.dll
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\refint\SEDC.Homework#4.Homework.Task3.dll
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.pdb
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\SEDC.Homework#4.Homework.Task3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#-Basic\SEDC.Homework#4\SEDC.Homework#4.Homework.Task3\obj\Debug\net6.0\ref\SEDC.Homework#4.Homework.Task3.dll
