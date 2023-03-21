@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\bin\Debug\net6.0\SEDC.Homework#6.Driver.exe
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\bin\Debug\net6.0\SEDC.Homework#6.Driver.deps.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\bin\Debug\net6.0\SEDC.Homework#6.Driver.runtimeconfig.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\bin\Debug\net6.0\SEDC.Homework#6.Driver.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\bin\Debug\net6.0\SEDC.Homework#6.Driver.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.AssemblyInfo.cs
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\refint\SEDC.Homework#6.Driver.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\SEDC.Homework#6.Driver.genruntimeconfig.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#6\SEDC.Homework#6.Driver\obj\Debug\net6.0\ref\SEDC.Homework#6.Driver.dll
