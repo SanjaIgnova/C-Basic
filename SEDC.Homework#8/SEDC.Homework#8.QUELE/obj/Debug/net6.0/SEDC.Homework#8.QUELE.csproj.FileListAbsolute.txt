@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\bin\Debug\net6.0\SEDC.Homework#8.QUELE.exe
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\bin\Debug\net6.0\SEDC.Homework#8.QUELE.deps.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\bin\Debug\net6.0\SEDC.Homework#8.QUELE.runtimeconfig.json
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\bin\Debug\net6.0\SEDC.Homework#8.QUELE.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\bin\Debug\net6.0\SEDC.Homework#8.QUELE.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.AssemblyInfo.cs
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\refint\SEDC.Homework#8.QUELE.dll
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.pdb
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\SEDC.Homework#8.QUELE.genruntimeconfig.cache
+C:\Users\Dell\Desktop\domasni\C# Basic\SEDC.Homework#8\SEDC.Homework#8.QUELE\obj\Debug\net6.0\ref\SEDC.Homework#8.QUELE.dll
